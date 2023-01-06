@@ -12,7 +12,7 @@ namespace YoutubeDLUpdater
     public class YoutubeDLUpdater : NeosMod
     {
         public override string Name => "YoutubeDL-Updater";
-        public override string Author => "dfgHiatus";
+        public override string Author => "dfgHiatus and Frozen";
         public override string Version => "1.0.1";
         public override string Link => "https://github.com/dfgHiatus/YoutubeDL-Updater";
 
@@ -119,6 +119,7 @@ namespace YoutubeDLUpdater
             }
             Msg($"Download complete! yt-dlp.exe is now up to date.");
         }
+        
         // https://stackoverflow.com/questions/38474362/get-a-file-sha256-hash-code-and-checksum with corrections
         private static string ComputeSha256(string filePath)
         {
