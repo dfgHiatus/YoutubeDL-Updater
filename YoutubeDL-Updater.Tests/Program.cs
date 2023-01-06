@@ -1,10 +1,8 @@
-﻿namespace YoutubeDL_Updater.Tests
+﻿namespace YoutubeDL_Updater.Tests;
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, World!");
     }
 }
