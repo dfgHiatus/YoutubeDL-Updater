@@ -1,6 +1,6 @@
 # YoutubeDL-Updater
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that updates Neos's [Youtube DL](https://github.com/yt-dlp/yt-dlp)
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that updates Neos's [Youtube DL](https://github.com/yt-dlp/yt-dlp) (last updated 2021.09.25!)
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
